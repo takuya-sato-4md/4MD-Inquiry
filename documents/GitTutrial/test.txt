@@ -3,3 +3,5 @@
 2で編集 eclipseでの編集を無視します
 ver1で編集しました eclipseから編集しました
 eclipseから編集しました <= eclipse以外で編集しました
+
+競合するかな
